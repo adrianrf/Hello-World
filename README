@@ -1,0 +1,5 @@
+# using this README as a scratchpad while learning Git + github + bdsm
+
+git clone git@github.com:adrianrf/bdsm-site.git
+
+ssh-keygen -t rsa -C "adrianrf@gmail.com"
